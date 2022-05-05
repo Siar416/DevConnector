@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Siar416:siar416@devconnector.d8mpa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "1015d24ea25b1c26377b",
+  "githubSecret": "bc6d93c91c3a015ee1465f368106b9f75eecf42f"
+}
